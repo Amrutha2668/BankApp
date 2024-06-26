@@ -1,2 +1,2 @@
 # BankApp
-Banking Application
+Banking-Application
